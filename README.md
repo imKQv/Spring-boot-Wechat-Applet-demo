@@ -1,4 +1,6 @@
-# Spring boot and Wechat Applet demo
+# README
+
+## Spring boot and Wechat Applet demo
 
 
 
